@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Albert"
   avatar           : "images/个人证件照.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : " Incoming Master's Student at Sun Yat-sen University "
   location         : "ShenZhen, China"
   employer         :
   pubmed           : 
-  email            : "Lorem@ipsum.com"
+  email            : "Albertzzc@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -36,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Albert5858"
   google_plus      :
   keybase          :
   instagram        :
