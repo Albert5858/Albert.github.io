@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Albert"
-  avatar           : "images/个人证件照.jpg"
+  avatar           : "images/profile.jpg"
   bio              : " Incoming Master's Student at Sun Yat-sen University "
   location         : "ShenZhen, China"
   employer         :
