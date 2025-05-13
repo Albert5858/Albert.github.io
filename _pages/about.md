@@ -26,24 +26,23 @@ My research interest includes **Channel Encoding** and **Channel Decoding**.
 - *2021.09.01*:  🎉🎉 I entered Shenzhen University (SZU) for undergraduate study
 
 
-# 📝 Publications 
-- Waiting...
-
 
 # 🎖 Honors and Awards
 - *2024.12* National Schoolarship by MOE
 - *2024.08* National First Prize in [National College Students Embedded Chip and System Design Competition](http://www.socchina.net/home?trackType=2)
 - *2023.11* National Second Prize in [CUMCM](https://www.mcm.edu.cn/html_cn/node/146e6423e285926f153ac66bdc80105d.html)
 - *2024.08* National Third Prize in [IC-Innovation Challenge](http://univ.ciciec.com/)
+
   
- 
+# 📝 Publications 
+- Waiting...
 
 # 📖 Educations
 - Incoming Master Student @SYSU, supervised by Prof.Li Chen.
 - *2021.09 - 2025.07 (now)*, Bachelor of Electronic Information Engineering in Shenzhen University (SZU), China.
 
 # 💬 Invited Talks
-
+- 
 
 # 💻 Internships
-
+- 
