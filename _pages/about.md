@@ -23,11 +23,11 @@ My research interest includes **Channel Encoding** and **Channel Decoding**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09.01*:  🎉🎉 I entered Shenzhen University (SZU) for undergraduate study
+
 
 # 📝 Publications 
-
+- Waiting...
 
 
 # 🎖 Honors and Awards
@@ -35,16 +35,15 @@ My research interest includes **Channel Encoding** and **Channel Decoding**.
 - *2024.08* National First Prize in [National College Students Embedded Chip and System Design Competition](http://www.socchina.net/home?trackType=2)
 - *2023.11* National Second Prize in [CUMCM](https://www.mcm.edu.cn/html_cn/node/146e6423e285926f153ac66bdc80105d.html)
 - *2024.08* National Third Prize in [IC-Innovation Challenge](http://univ.ciciec.com/)
-- 
+  
  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Incoming Master Student @SYSU, supervised by Prof.Li Chen.
+- *2021.09 - 2025.07 (now)*, Bachelor of Electronic Information Engineering in Shenzhen University (SZU), China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
