@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is **Zicheng Zhou**, a senior undergraduate student from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/) (expected graduation in July 2025). I will join @[SEIT-SYSU](https://seit.sysu.edu.cn/) (School of Electronics and Imformation Technology, Sun Yat-sen University) as a Master，and my research interest includes **Channel Coding and Decoding** . 
+Hi, My name is **Zicheng Zhou**, a senior undergraduate student from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/) (expected graduation in July 2025). I will join @[SEIT-SYSU](https://seit.sysu.edu.cn/) (School of Electronics and Imformation Technology, Sun Yat-sen University) as a Master student in September 2025, supervised by Prof.[Li Chen](http://www.chencode.cn/). 
+
+My research interest includes **Channel Encoding** and **Channel Decoding**. 
 
 
 # 🔥 News
@@ -29,8 +31,8 @@ Hi, My name is **Zicheng Zhou**, a senior undergraduate student from [Shenzhen U
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* National Schoolarship by MOE
+ 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
