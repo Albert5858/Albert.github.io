@@ -32,6 +32,10 @@ My research interest includes **Channel Encoding** and **Channel Decoding**.
 
 # 🎖 Honors and Awards
 - *2024.12* National Schoolarship by MOE
+- *2024.08* National First Prize in [National College Students Embedded Chip and System Design Competition](http://www.socchina.net/home?trackType=2)
+- *2023.11* National Second Prize in [CUMCM](https://www.mcm.edu.cn/html_cn/node/146e6423e285926f153ac66bdc80105d.html)
+- *2024.08* National Third Prize in [IC-Innovation Challenge](http://univ.ciciec.com/)
+- 
  
 
 # 📖 Educations
