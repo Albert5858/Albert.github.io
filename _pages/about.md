@@ -27,6 +27,7 @@ My research interest includes **Channel Encoding** and **Channel Decoding**.
 
 
 
+
 # 🎖 Honors and Awards
 - *2024.12* National Schoolarship by MOE
 - *2024.08* National First Prize in [National College Students Embedded Chip and System Design Competition](http://www.socchina.net/home?trackType=2)
@@ -39,7 +40,7 @@ My research interest includes **Channel Encoding** and **Channel Decoding**.
 
 # 📖 Educations
 - Incoming Master Student @SYSU, supervised by Prof.Li Chen.
-- *2021.09 - 2025.07 (now)*, Bachelor of Electronic Information Engineering in Shenzhen University (SZU), China.
+- *2021.09 - 2025.07*, Bachelor of Electronic Information Engineering in Shenzhen University (SZU), China. **Honours Degree**and**Outstanding graduates of SZU**
 
 # 💬 Invited Talks
 - 
