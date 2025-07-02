@@ -40,7 +40,7 @@ My research interest includes **Channel Encoding** and **Channel Decoding**.
 
 # 📖 Educations
 - Incoming Master Student @SYSU, supervised by Prof.Li Chen.
-- *2021.09 - 2025.07*, Bachelor of Electronic Information Engineering in Shenzhen University (SZU), China. **Honours Degree** and **Outstanding graduates of SZU**
+- *2021.09 - 2025.07*, Bachelor of Electronic Information Engineering in Shenzhen University (SZU), China. **Honours Degree** and **Outstanding graduate of SZU**
 - 
 
 # 💬 Invited Talks
